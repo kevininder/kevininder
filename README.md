@@ -13,5 +13,7 @@
 
 &emsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevininder&layout=compact&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevininder&layout=compact&langs_count=8)
 [![kevininder's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevininder)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake](https://github.com/kevininder/kevininder/blob/manual-run-output/only-svg/github-contribution-grid-snake.svg)
