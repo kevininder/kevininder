@@ -8,7 +8,7 @@
 <h2>📫 How to reach me ...</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/kevininder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevininder" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kevinstaaaaa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevininder" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kevininderrrrrrrrr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kevininder" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kevininder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kevininder" height="30" width="40" /></a>
 </p>
 
