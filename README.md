@@ -3,7 +3,7 @@
 - 👀 I’m interested in everything algorithmic!!
 - 🏫 With mechatronics, firmware, embedded systems, DSP and DSA background.
 - 🔥 I’m currently bettering my machine learning skills and JUCE framework.
-- 🎶 I used to be a full-time music composer. Feel free to check out my works @kevininder on SoundCloud.
+- 🎶 I used to be a full-time music composer. Feel free to check out my works [@kevininder](https://soundcloud.com/kevininder).
 
 <h2>📫 How to reach me ...</h2>
 <p align="left">
